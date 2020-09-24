@@ -84,7 +84,7 @@
     "glob": "7.1.2",
     "inquirer": "1.2.3",
     "lodash": "4.17.10",
-    "minimist": "1.2.0",
+    "minimist": "1.2.3",
     "opencollective": "1.0.3",
     "path-exists": "2.1.0",
     "shelljs": "0.7.6",
